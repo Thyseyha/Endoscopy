@@ -1,0 +1,8 @@
+{
+  "name": "EndoReport AI",
+  "description": "A web-based platform for endoscopy reporting, featuring AI-powered diagnostic suggestions, offline capabilities, and seamless PDF exporting for medical professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
